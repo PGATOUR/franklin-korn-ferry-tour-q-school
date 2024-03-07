@@ -2,9 +2,9 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--pga-korn-ferry-tour-q-school--hlxsites.hlx.page/
-- Live: https://main--pga-korn-ferry-tour-q-school--hlxsites.hlx.live/
-- Producion: https://www.pgatourqschool.com
+- Preview: https://main--franklin-korn-ferry-tour-q-school--pgatour.hlx.page/
+- Live: https://main--franklin-korn-ferry-tour-q-school--pgatour.hlx.live/
+- Production: https://www.pgatourqschool.com
 
 ## Installation
 
