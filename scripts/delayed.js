@@ -574,7 +574,7 @@ export function initGigya() {
   );
 }
 
-initGigya();
+// initGigya();
 
 /* status bar weather */
 async function populateStatusBar(statusBar) {
