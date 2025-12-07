@@ -1,7 +1,7 @@
 ## Environments
 - Preview: https://main--franklin-korn-ferry-tour-q-school--pgatour.aem.page/
 - Live: https://main--franklin-korn-ferry-tour-q-school--pgatour.aem.live/
-- Production: https://www.pgatourqschool.com
+- Prod: https://www.pgatourqschool.com
 
 ## Documentation
 Before developing with EDS, we recommend you go through the documentation on https://www.aem.live/docs/ and more specifically:
