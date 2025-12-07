@@ -1,6 +1,6 @@
 ## Environments
-- Preview: https://main--franklin-korn-ferry-tour-q-school--pgatour.hlx.page/
-- Live: https://main--franklin-korn-ferry-tour-q-school--pgatour.hlx.live/
+- Preview: https://main--franklin-korn-ferry-tour-q-school--pgatour.aem.page/
+- Live: https://main--franklin-korn-ferry-tour-q-school--pgatour.aem.live/
 - Production: https://www.pgatourqschool.com
 
 ## Documentation
