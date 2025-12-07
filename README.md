@@ -1,10 +1,14 @@
-# PGA Korn Ferry Tour Qualifying School
-Your project's description...
-
 ## Environments
 - Preview: https://main--franklin-korn-ferry-tour-q-school--pgatour.hlx.page/
 - Live: https://main--franklin-korn-ferry-tour-q-school--pgatour.hlx.live/
 - Production: https://www.pgatourqschool.com
+
+## Documentation
+Before developing with EDS, we recommend you go through the documentation on https://www.aem.live/docs/ and more specifically:
+1. [Developer Tutorial](https://www.aem.live/developer/tutorial)
+2. [The Anatomy of a Project](https://www.aem.live/developer/anatomy-of-a-project)
+3. [Web Performance](https://www.aem.live/developer/keeping-it-100)
+4. [Markup, Sections, Blocks, and Auto Blocking](https://www.aem.live/developer/markup-sections-blocks)
 
 ## Installation
 
@@ -12,16 +16,13 @@ Your project's description...
 npm i
 ```
 
-## Tests
+## Linting
 
 ```sh
-npm tst
+npm run lint
 ```
 
 ## Local development
-
-1. Create a new repository based on the `helix-project-boilerplate` template and add a mountpoint in the `fstab.yaml`
-1. Add the [helix-bot](https://github.com/apps/helix-bot) to the repository
-1. Install the [Helix CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/aem-cli`
-1. Start Helix Pages Proxy: `aem up` (opens your browser at `http://localhost:3000`)
-1. Open the `{repo}` directory in your favorite IDE and start coding :)
+1. Install the [AEM CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/aem-cli`
+2. Start AEM Proxy: `aem up` (opens your browser at `http://localhost:3000`)
+3. Open the `franklin-korn-ferry-tour-q-school` directory in your favorite IDE and start coding :)
